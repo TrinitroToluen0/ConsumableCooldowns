@@ -42,7 +42,7 @@ class Main extends PluginBase implements Listener
         $item = $event->getItem();
 
         if (!($item instanceof GoldenAppleEnchanted)) return;
-        if ($player->hasPermission("consumablecoooldowns.bypass")) return;
+        if ($player->hasPermission("consumablecooldowns.bypass")) return;
 
         if ($this->isOnCooldown($player, $item)) {
             $event->cancel();
@@ -64,7 +64,7 @@ class Main extends PluginBase implements Listener
         $item = $event->getItem();
 
         if (!($item instanceof EnderPearl)) return;
-        if ($player->hasPermission("consumablecoooldowns.bypass")) return;
+        if ($player->hasPermission("consumablecooldowns.bypass")) return;
 
         if ($this->isOnCooldown($player, $item)) {
             $event->cancel();
