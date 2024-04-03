@@ -1,0 +1,11 @@
+---
+name: ConsumableCooldowns
+version: 0.0.1
+main: Mencoreh\ConsumableCooldowns\Main
+api: 5.13.0
+src-namespace-prefix: Mencoreh\ConsumableCooldowns
+permissions:
+  consumablecoooldowns.bypass:
+    description: "Bypass the cooldowns of the consumable items."
+    default: op
+...
