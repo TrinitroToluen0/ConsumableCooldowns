@@ -5,7 +5,7 @@ main: Mencoreh\ConsumableCooldowns\Main
 api: 5.13.0
 src-namespace-prefix: Mencoreh\ConsumableCooldowns
 permissions:
-  consumablecoooldowns.bypass:
+  consumablecooldowns.bypass:
     description: "Bypass the cooldowns of the consumable items."
     default: op
 ...
