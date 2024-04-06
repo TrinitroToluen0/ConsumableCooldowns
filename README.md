@@ -1,3 +1,5 @@
+[![](https://poggit.pmmp.io/shield.state/ConsumableCooldowns)](https://poggit.pmmp.io/p/ConsumableCooldowns)
+
 # ConsumableCooldowns
 Set cooldowns to ender pearls and enchanted golden apples
 
