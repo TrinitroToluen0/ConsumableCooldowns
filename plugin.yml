@@ -1,6 +1,6 @@
 ---
 name: ConsumableCooldowns
-version: 0.0.1
+version: 1.0.0
 main: Mencoreh\ConsumableCooldowns\Main
 api: 5.13.0
 src-namespace-prefix: Mencoreh\ConsumableCooldowns
